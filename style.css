@@ -1,0 +1,78 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0056b3;
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 1rem 2rem;
+    margin: 1rem 0;
+}
+
+#yeso {
+    background-color: #e0f7fa;
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+#vendajes {
+    background-color: #ffebee;
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #333;
+}
+
+ul, ol {
+    padding-left: 1.5rem;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 1rem;
+}
